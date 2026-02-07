@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icon
 </p>
 
 - 🎓 Estudiante de **Ingeniería de Sistemas (VII ciclo)**.
-- 💻 **Full Stack Developer en formación**, con mayor enfoque en **Backend**.
+  - 💻 **Backend Developer en formación**, con mayor enfoque en **Backend**.
 - 🧠 Experiencia en proyectos académicos y personales orientados a:
   - Desarrollo de **APIs REST**
   - **Bases de datos relacionales**

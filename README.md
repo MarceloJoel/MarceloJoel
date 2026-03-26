@@ -9,7 +9,7 @@
 src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" />
 </p>
 
-- 🎓 Estudiante de **Ingeniería de Sistemas (VII ciclo)**.
+- 🎓 Estudiante de **Ingeniería Informática**.
   - 💻 **Backend Developer en formación**, con mayor enfoque en **Backend**.
 - 🧠 Experiencia en proyectos académicos y personales orientados a:
   - Desarrollo de **APIs REST**
